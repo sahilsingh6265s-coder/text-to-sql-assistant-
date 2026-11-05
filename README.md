@@ -1,6 +1,7 @@
 # Text-to-SQL Business Assistant
 
-**Live demo:** [Open the deployed Streamlit app](https://text-to-sql-assistant-msduv6nnr7ssygesbw9svd.streamlit.app)
+Live demo link: https://2xzjbzgd8gt8ruhzuccepr.streamlit.app/
+
 
 Ask a business question in plain English (e.g. *"What was the total revenue in
 the last 12 months?"*) and get a real answer — pulled live from a SQL database,
